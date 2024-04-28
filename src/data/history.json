@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "Google",
+        "startDate": "Sept, 2022",
+        "endDate": "Present",
+        "experiences": ["Worked on Google Maps", "Reduced load time"],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "UI Designer",
+        "organisation": "Figma",
+        "startDate": "Aug, 2021",
+        "endDate": "Aug, 2022",
+        "experiences": ["Worked on Google Maps", "Reduced load time"],
+        "imageSrc": "history/figma.png"
+    },
+    {
+        "role": "SWE Intern",
+        "organisation": "Netflix",
+        "startDate": "Apr, 2020",
+        "endDate": "Jun, 2021",
+        "experiences": ["Worked on Google Maps", "Reduced load time"],
+        "imageSrc": "history/netflix.png"
+    }
+]
